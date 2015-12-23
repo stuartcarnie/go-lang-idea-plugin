@@ -21,5 +21,5 @@ import com.intellij.openapi.util.IconLoader;
 import javax.swing.*;
 
 public class Icons {
-  public static final Icon FILE = IconLoader.getIcon("/icons/intel/x86-file.png");
+  public static final Icon FILE = IconLoader.getIcon("/icons/x86-file.png");
 }

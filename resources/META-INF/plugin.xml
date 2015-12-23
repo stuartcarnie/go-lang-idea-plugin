@@ -344,7 +344,7 @@
   <depends optional="true" config-file="google-app-engine-core-yaml.xml">org.jetbrains.plugins.yaml</depends>
 
   <!-- plan9 assembler -->
-  <depends config-file="plan9.xml"/>
+  <depends optional="true" config-file="plan9.xml">com.intellij.modules.lang</depends>
 
   <extensionPoints>
     <extensionPoint name="appengine.Extension" interface="com.intellij.appengine.AppEngineExtension"/>
