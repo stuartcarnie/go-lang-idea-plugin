@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+<list>
+  <option name="INSTRUCTION">
+    <value>
+      <option name="FOREGROUND" value="20999d"/>
+      <option name="FONT_TYPE" value="2"/>
+    </value>
+  </option>
+  <option name="LABEL">
+    <value>
+      <option name="FOREGROUND" value="DD6718"/>
+      <!--<option name="EFFECT_COLOR" value="000000" />-->
+      <option name="EFFECT_TYPE" value="1" />
+    </value>
+  </option>
+</list>
